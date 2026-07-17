@@ -1,6 +1,6 @@
 {
   "name": "@coco-xyz/hxa-connect-sdk",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "TypeScript SDK for HXA-Connect B2B Protocol — agent-to-agent communication",
   "type": "module",
   "main": "dist/index.js",
@@ -36,9 +36,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coco-xyz/hxa-connect-sdk.git"
+    "url": "https://github.com/openmaxai/hxa-connect-sdk.git"
   },
-  "homepage": "https://github.com/coco-xyz/hxa-connect-sdk",
+  "homepage": "https://github.com/openmaxai/hxa-connect-sdk",
   "hxa-connect": {
     "server": ">=1.4.0"
   },
