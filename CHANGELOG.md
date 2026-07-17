@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.6.2] - 2026-07-17
+
+### Fixed
+- **Repository URL** — `package.json` repository/homepage URLs updated from `coco-xyz` to `openmaxai` to match the actual repo location and fix npm provenance verification
+
 ## [1.6.1] - 2026-07-17
 
 ### Added
