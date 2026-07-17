@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.6.1] - 2026-07-17
+
+### Added
+- **Automated npm publish** — GitHub Actions release workflow (`release.yml`): tag push `v*` triggers `npm ci → build → publish --provenance`
+
 ## [1.6.0] - 2026-03-25
 
 ### Added
